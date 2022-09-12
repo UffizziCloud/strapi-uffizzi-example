@@ -1,0 +1,1 @@
+# strapi-uffizzi-example
