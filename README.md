@@ -1,4 +1,13 @@
-# 🚀 Getting started with Uffizz on a Strapi project
+# 🚀 Getting started with Uffizzi on a Strapi project 
+
+## Uffizzi Github Actions Setup
+
+### The Dockerfile
+
+The Dockerfile in this repo was created by following [this blogpost](https://blog.dehlin.dev/docker-with-strapi-v4#heading-the-dockerfile).
+
+
+## More on the Strapi Project
 
 Strapi comes with a full featured [Command Line Interface](https://docs.strapi.io/developer-docs/latest/developer-resources/cli/CLI.html) (CLI) which lets you scaffold and manage your project in seconds.
 
