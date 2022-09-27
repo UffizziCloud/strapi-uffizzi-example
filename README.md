@@ -1,4 +1,13 @@
-# 🚀 Getting started with Uffizz on a Strapi project
+# 🚀 Getting started with Uffizzi on a Strapi project 
+
+## Uffizzi Github Actions Setup
+
+### The Dockerfile
+
+The Dockerfile in this repo was created by following [this blogpost](https://blog.dehlin.dev/docker-with-strapi-v4#heading-the-dockerfile).
+
+
+## More on the Strapi Project
 
 ## Uffizzi Github Actions Setup
 

@@ -9,11 +9,11 @@ services:
     environment:
       STRAPI_ADMIN_CLIENT_PREVIEW_SECRET: USGmBGempHrQ9Bu5DhNXBFxa
       DATABASE_CLIENT: postgres
-      DATABASE_HOST: db
+      DATABASE_HOST: localhost
       DATABASE_PORT: 5432
       DATABASE_NAME: strapi
       DATABASE_USERNAME: strapi
-      DATABASE_PASSWORD: strapipassword
+      DATABASE_PASSWORD: strapi
     ports:
       - "1337:1337"
     depends_on:
@@ -28,7 +28,7 @@ services:
     platform: linux/amd64
     environment:
       POSTGRES_USER: strapi
-      POSTGRES_PASSWORD: strapipassword
+      POSTGRES_PASSWORD: strapi
       POSTGRES_DB: strapi
     volumes:
       - strapi-data:/var/lib/postgresql
